@@ -10,5 +10,6 @@
 
 ## Awards & Honors
 - 2026, Second Prize, Artificial Intelligence Track, Northern Regional Contest, The 17th China University Student Service Outsourcing Innovation and Entrepreneurship Competition
+- 2024, Outstanding Graduate of Hunan Province
 - 2023, Second Prize, Enterprise Proposition Category, The 14th China University Student Service Outsourcing Innovation and Entrepreneurship Competition
 - 2023, Second Prize, Central South Regional Contest, The 16th China Undergraduate Computer Design Competition
