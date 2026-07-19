@@ -15,3 +15,5 @@
 ## Awards & Honors
 - Award name, competition name, year
 - Award name, competition name, year
+
+- | 2023 | Second Prize, Central South Regional Contest | The 16th China Undergraduate Computer Design Competition |
