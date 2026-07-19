@@ -1,16 +1,36 @@
-## Hi there 👋
+# Aohua Li
 
-<!--
-**PepperCS/PepperCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently at Jilin University, with research interests in infrared small target detection, computer vision, and deep learning.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Infrared small target detection
+- Computer vision
+- Deep learning
+- Remote sensing and image processing
+
+## Publications
+
+- **PQGNet: Perceptual Query Guided Network for Infrared Small Target Detection**  
+  Code: [PQGNet](https://github.com/PepperCS/PQGNet)
+
+## Selected Projects
+
+- [PQGNet](https://github.com/PepperCS/PQGNet)  
+  Perceptual Query Guided Network for Infrared Small Target Detection.
+
+- [IRSTD](https://github.com/PepperCS/IRSTD)  
+  Infrared Small Target Detection Kit.
+
+- [HyTBE](https://github.com/PepperCS/HyTBE)
+
+## Awards & Honors
+
+- Award name, competition name, year
+- Award name, competition name, year
+
+## Contact
+
+- GitHub: [PepperCS](https://github.com/PepperCS)
+- Email: your_email@example.com
+- Google Scholar: your link
